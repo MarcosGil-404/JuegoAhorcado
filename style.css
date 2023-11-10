@@ -2,7 +2,7 @@
     height: 318px;
     width: 200px;
     background-repeat: no-repeat;
-    background-image: url(./img/imagen.png);
+    background-image: url("https://pablomonteserin.com/wp-content/uploads/2020/05/hangman-game_pm-1320x273.png");
 }
 #ganador{
     color: aquamarine;
@@ -15,7 +15,7 @@
     position: fixed;
     top: 0;
     left: 0;
-    background-image: url('/img/mariano-rajoy-pp-1.jpg');
+    background-image: url('https://images.ecestaticos.com/iiKgTEWxA58VcPabTFLDY93Q4jg=/0x0:0x0/1200x675/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F2c7%2Fd91%2Fd43%2F2c7d91d433dfee4b633b697c42581ded.jpg');
     width: 100%;
     background-repeat: no-repeat;
     background-attachment: fixed;
