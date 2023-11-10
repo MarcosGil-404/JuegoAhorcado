@@ -1,7 +1,7 @@
 String.prototype.replaceAt=function(index, character) { return this.substring(0, index) + character + this.substring(index+character.length); }     
 
 
-const palabras = ['guayaba', 'pescadero', 'canalla', 'valentin', 'malandrin', 'esternocleidomastoideo'];
+const palabras = ['guayaba', 'pescadero', 'canalla', 'valentin', 'malandrin', 'esternocleidomastoideo', 'charcutero'];
 
 const palabra = palabras[Math.floor(Math.random()*palabras.length)];
 let palabraConGuiones = palabra.replace(/./g, "_ ");
