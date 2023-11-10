@@ -2,7 +2,7 @@
     height: 318px;
     width: 200px;
     background-repeat: no-repeat;
-    background-image: url("https://pablomonteserin.com/wp-content/uploads/2020/05/hangman-game_pm-1320x273.png");
+    background-image: url('https://pablomonteserin.com/wp-content/uploads/2020/05/hangman-game_pm-1320x273.png');
 }
 #ganador{
     color: aquamarine;
